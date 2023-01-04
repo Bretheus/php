@@ -4,4 +4,5 @@
 
 ech "Ola Hcode"
 
+echo "Resolvido Comunicação ";
  ?>
