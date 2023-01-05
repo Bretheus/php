@@ -6,5 +6,6 @@ echo "Helo Hcode";
 
 echo "Teste Comunicação";
 
-echo " f"oira; oga
+echo "agora foi";
+
 ?>
